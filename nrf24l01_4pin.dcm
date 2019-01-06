@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP nRF24L01_4pin
+D Modulo nRF24L01 2x4 pin
+K nRF24L01
+F ~
+$ENDCMP
+#
+#End Doc Library
